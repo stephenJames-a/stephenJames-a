@@ -30,4 +30,3 @@ Welcome to my GitHub! I'm an aspiring IT support specialist, but I'm really aimi
 ---
 #### Misc.
 ![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white)
----
